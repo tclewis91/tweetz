@@ -11,7 +11,6 @@ gem "web-console", "~> 2.1"
 end
 
 gem "bullet", "~> 4.14", {:group=>:development}
-gem "codeclimate-test-reporter", "~> 0.4", {:group=>:test, :require=>nil}
 gem "rails_12factor", "~> 0.0", {:group=>:production}
 gem "rails", "~> 4.2"
 gem "pg", "~> 0.18"
